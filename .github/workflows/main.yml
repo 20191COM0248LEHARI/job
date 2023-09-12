@@ -1,11 +1,5 @@
 name:Complex
-
- 
-
 on:Push
-
- 
-
 jobs:
   ubuntu:
     runs-on:ubuntu-latest
